@@ -2,16 +2,29 @@ h1{
     color:rgb(255, 0, 0);
 }
 h4{
-    color: rgb(51, 114, 233);
+    
+    font-size: 25px;
+    color: rgb(15, 55, 82);
+    text-align: center;
+    
 }
 body{
 background-color: indigo;
     background-image: url(https://wallpapercave.com/wp/ZtY0Ilg.jpg);
-    background-repeat: no-repeat;
+    
 }
 h3{
-    color: royalblue;
+    font-size: 23px;
+}
+h3:hover{
+    color: rgb(12, 59, 59);
+    border: lightskyblue;
+    font-size: 25px;
+   list-style-position: initial;
+   display:inline-block
+   
 }
 div{
-    color: yellowgreen;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
 }
